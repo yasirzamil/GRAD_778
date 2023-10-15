@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "1. Breaking Bad\n2. Game of Thrones\n3. Stranger Things\n4. The Crown\n5. The Mandalorian" 
+=======
+"1. Inception\n2. The Dark Knight\n3. Interstellar\n4. The Matrix\n5. Avengers: Endgame" 
+>>>>>>> 7e68088a1451e6a88461325d71946b0b0ab97084
